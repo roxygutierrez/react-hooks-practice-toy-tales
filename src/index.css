@@ -100,3 +100,9 @@ button:hover {
   font-family: monospace;
   margin: 3px;
 }
+
+.searchbar {
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+}
