@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 11
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "likes": 20
     },
     {
       "id": 3,
@@ -47,6 +47,11 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Person: Light Skin Tone, Beard",
+      "image": "https://em-content.zobj.net/thumbs/160/apple/325/person-beard_light-skin-tone_1f9d4-1f3fb_1f3fb.png",
+      "id": 9
     }
   ]
 }
